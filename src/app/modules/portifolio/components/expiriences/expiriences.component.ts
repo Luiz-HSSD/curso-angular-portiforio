@@ -13,44 +13,44 @@ export class ExpiriencesComponent {
     {
       summary: {
         strong: 'Desenvolvedor dotnet pleno',
-        p: 'MW Microware | Set 2020 - Present',
+        p: 'MW Microware | Fev 2024 - Ago 2024',
       },
-      text: '<p>Desde setembro de 2020, atuo como Analista de Sistema Especialista na ZUP, destacando-me nas áreas Front-end, utilizando Html5, Css3, Javascript, TypeScript, Angular 2+, Angular Material e NgRx, e Back-end, onde o NodeJs é aplicado em Provas de Conceito, caso necessário.</p> <p>Além disso, minha experiência abrange a integração com Micro Serviços, Docker, GitLab, Jira e Scrum. Atualmente, enfrento o desafio significativo de contribuir para o desenvolvimento do Open Finance para o Banco Itaú, alcançando sucesso ao implementar a ferramenta em conformidade com os marcos regulatórios.</p> <p>Destaco também a criação de componentes altamente reutilizáveis e personalizáveis no front-end, utilizando Angular, como parte do nosso compromisso com a eficiência e a qualidade do código.</p>',
+      text: '<p>manutenção dos sistemas do Hospital da Polícia Militar de São Paulo em dotnet ASP .net e node.js.</p> <p> Implantei o sistema de catraca Rancho do restaurante do quartel com node.js, que inclui gerenciamento de contagem de crachás. </p><p> Criei um bot (bot do Telegram)  com respostas dos exames dos militares com validações e tratamentos da OWASP, com integrações. </p> <p> eu fiz manutenção no sistema de suprimentos médicos automáticos (armário de medicamentos) que implantei em dotnet.</p> <p> liderei o time  de desenvolvimento em reuniões técnicas</p>',
     },
     {
       summary: {
         strong: 'Desenvolvedor dotnet pleno',
-        p: '7Comm | Out 2019 - set 2020',
+        p: '7Comm | Ago 2020 - Set 2023',
       },
-      text: '<p>Durante meu período na Everis de outubro de 2019 a setembro de 2020, atuei como Analista de Sistema, liderando e desenvolvendo equipes.</p> <p>Minhas responsabilidades no front-end incluíram o uso de Html5, Css3, Javascript, TypeScript, Angular, Angular Material e NgRx, enquanto no back-end, trabalhei com NodeJs (Express/NestJs), Sequelize/TypeOrm, MongoDb, MariaDb e Redis.</p> <p>Além disso, liderei integrações com Micro Serviços, Jenkins, Gcloud, Kubernetes e Docker, utilizando ferramentas como GitLab, Jira e Scrum.</p> <p>Durante esse período, enfrentei e superei desafios significativos, destacando-se o desenvolvimento de um ChatBot.</p> <p>Como resultado, fui promovido a Líder da Squad Fullstack Angular/NodeJs, conduzi melhorias contínuas em um sistema legado e aprimorei minhas habilidades nos processos do GitFlow.</p>',
+      text: '<p> Implantei o sistemas  de investimentos financeiros renda fixa e previdencia privada em OpenShift, DotNet e Azure Devops. </p> <p> Meu projeto principal é renda fixa, onde faço todo o projeto sozinho em DotNet. É claro que depois de mim, outros programadores trabalharam e implementaram um sistema de cache interno que torna o tempo de resposta do sistema instantâneo. </p><p> Desenvolvi um sistema de previdência privada em DotNet com diversas integrações e alta complexidade, otimizando os tempos de resposta. </p> <p> Preveni vulnerabilidades OWASP em todas as aplicações e as solucionei com a ajuda do Fortify. </p><p> Realizei a manutenção do sistema de IPO e desenvolvi novas funcionalidades. </p><p> Trabalhei com CI/CD na maioria dos sistemas.</p> <p> Realizei testes unitários de cobertura de 80% em todas as aplicações. </p><p> Liderei o time de Desenvolvimento em dailys demandas tecnicas RDM e demasi processos.</p>',
     },
     {
       summary: {
         strong: 'Desenvolvedor dotnet júnior',
-        p: 'MW Microware | Set 2018 - Set 2019',
+        p: 'MW Microware | Dez 2019 - Ago 2020',
       },
-      text: '<p>Em minha jornada como consultor web, tive a oportunidade de ser a ponte para várias empresas embarcarem no universo online.</p> <p>Por meio de projetos cuidadosamente elaborados, explorei o vasto espectro do desenvolvimento front-end, utilizando Html5, Css3, Javascript, TypeScript, Angular e Angular Material.</p> <p>Nos bastidores, no back-end, construí robustas infraestruturas com NodeJs (Express/NestJs), Sequelize/TypeOrm e integrações eficientes com bancos de dados MySql/Postgress.</p>',
+      text: '<p></p>',
     },
     {
       summary: {
         strong: 'Desenvolvedor dotnet júnior',
-        p: 'Metanoia Sistemas |  Set 2016 - Set 2018',
+        p: 'Metanoia Sistemas |  Jul 2019 - Nov 2019',
       },
-      text: '<p>Minha jornada na empresa mktew21 foi um verdadeiro mergulho no mundo fullstack, onde absorvi conhecimentos em diversas tecnologias.</p> <p>Foi um período de aprendizado intenso no desenvolvimento end-to-end, abrangendo a criação de aplicativos híbridos, desktop e web.</p> <p>E nesse cenário dinâmico que tomei a decisão de direcionar meu foco para as tecnologias NodeJs, TypeScript e Angular.</p> <p>No front-end, explorei as ferramentas Html5, Css3, Javascript, TypeScript, Angular e Angular Material, enquanto nos bastidores, no back-end, estive envolvido com NodeJs (Express), Sequelize, Laravel (PHP) e integrações com bancos de dados MySql/Postgress.</p>',
+      text: '<p></p>',
     },
     {
       summary: {
         strong: 'Desenvolvedor dotnet júnior',
-        p: 'IBRV | Set 2014 - Set 2016',
+        p: 'IBRV | Ago 2018 - Mai 2019',
       },
-      text: '<p>Durante minha passagem pelo Decolar.com, dediquei-me intensamente à criação e atualização de páginas de vendas, além de colaborar com o departamento de Recursos Humanos na implementação de um sistema de gestão de vagas.</p> <p>Extendendo minha contribuição a diversos setores, como marketing, vendas, entre outros, empreguei as tecnologias da época no desenvolvimento, incluindo Html5, Css3, Javascript, Jquery e AngularJS no front-end, e PHP no back-end.</p>',
+      text: '<p></p>',
     },
     {
       summary: {
         strong: 'Estagio desnvolvedor ',
-        p: 'Brvant | Mar 2013 - Set 2014',
+        p: 'Brvant | Set 2017 - Jul 2018',
       },
-      text: '<p>No ew21, marco inicial da minha trajetória profissional, mergulhei em um aprendizado abrangente que englobava não apenas front-end, design e backend, mas também incluía domínio em tecnologias como Flash e muito mais.</p> <p>Essa empresa se revelou uma verdadeira escola inicial, onde absorvi conhecimentos variados. No front-end, desenvolvi habilidades com Html5, Css3, Javascript, Jquery e Wordpress, enquanto no back-end, explorei PHP, Cake (PHP) e integrações com bancos de dados MySql.</p>',
+      text: '<p></p>',
     },
 
     ])
