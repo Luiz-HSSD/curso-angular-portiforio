@@ -11,28 +11,32 @@ import { IKnowledge } from '../../interface/IKnowledge.inteface';
 export class KnowledgeComponent {
  public arrayKnowledge = signal<IKnowledge[]>([
     {
+        src:"assets/icons/knowledge/cs.svg",
+        alt:"Ícone de conhecimento C Sharp", 
+    },
+    {
         src:"assets/icons/knowledge/angular.svg",
-        alt:"Ícone de conhecimento angular", 
+        alt:"Ícone de conhecimento Angular", 
     },
     {
         src:"assets/icons/knowledge/css3.svg",
-        alt:"Ícone de conhecimento css3", 
+        alt:"Ícone de conhecimento CSS3", 
     },
     {
         src:"assets/icons/knowledge/html5.svg",
-        alt:"Ícone de conhecimento html5", 
+        alt:"Ícone de conhecimento HTML5", 
     },
     {
         src:"assets/icons/knowledge/javascript.svg",
-        alt:"Ícone de conhecimento javascript", 
+        alt:"Ícone de conhecimento Javascript", 
     },
     {
         src:"assets/icons/knowledge/nodejs.svg",
-        alt:"Ícone de conhecimento nodejs", 
+        alt:"Ícone de conhecimento Node.js", 
     },
     {
         src:"assets/icons/knowledge/sass.svg",
-        alt:"Ícone de conhecimento sass", 
+        alt:"Ícone de conhecimento SASS", 
     }
 
  ])
